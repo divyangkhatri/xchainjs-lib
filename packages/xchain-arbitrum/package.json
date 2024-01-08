@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-arbitrum",
+  "name": "@dokwallet/xchain-arbitrum",
   "version": "0.1.5",
   "description": "Arbitrum EVM client for XChainJS",
   "keywords": [

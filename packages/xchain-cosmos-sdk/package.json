@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-cosmos-sdk",
+  "name": "@dokwallet/xchain-cosmos-sdk",
   "version": "0.1.6",
   "description": "Genereic Cosmos SDK client for XChainJS",
   "keywords": [

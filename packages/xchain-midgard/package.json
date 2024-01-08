@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-midgard",
+  "name": "@dokwallet/xchain-midgard",
   "version": "0.5.3",
   "license": "MIT",
   "description": "Midgard module that exposes all midgard functions using openapi-generator-cli",

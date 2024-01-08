@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-evm",
+  "name": "@dokwallet/xchain-evm",
   "version": "0.4.4",
   "description": "Genereic EVM client for XChainJS",
   "keywords": [

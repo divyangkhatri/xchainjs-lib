@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-mayachain-amm",
+  "name": "@dokwallet/xchain-mayachain-amm",
   "version": "1.0.0",
   "description": "module that exposes estimating & swapping cryptocurrency assets on mayachain",
   "keywords": [

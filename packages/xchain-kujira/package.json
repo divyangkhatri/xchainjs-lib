@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-kujira",
+  "name": "@dokwallet/xchain-kujira",
   "version": "0.1.7",
   "description": "Custom Kujira client",
   "keywords": [

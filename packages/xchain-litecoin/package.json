@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-litecoin",
+  "name": "@dokwallet/xchain-litecoin",
   "version": "0.13.9",
   "description": "Custom Litecoin client and utilities used by XChainJS clients",
   "keywords": [

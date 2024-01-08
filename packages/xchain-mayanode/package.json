@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-mayanode",
+  "name": "@dokwallet/xchain-mayanode",
   "version": "0.1.2",
   "license": "MIT",
   "description": "Mayanode module that exposes all mayanode functions using openapi-generator-cli",

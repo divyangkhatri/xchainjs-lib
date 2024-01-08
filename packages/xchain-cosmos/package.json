@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-cosmos",
+  "name": "@dokwallet/xchain-cosmos",
   "version": "0.21.10",
   "description": "Custom Cosmos client and utilities used by XChainJS clients",
   "keywords": [

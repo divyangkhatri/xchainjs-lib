@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-utxo",
+  "name": "@dokwallet/xchain-utxo",
   "version": "0.1.2",
   "description": "Genereic UTXO client for XChainJS",
   "keywords": [

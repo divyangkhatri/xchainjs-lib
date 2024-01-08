@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-avax",
+  "name": "@dokwallet/xchain-avax",
   "version": "0.4.5",
   "description": "Avax EVM client for XChainJS",
   "keywords": [

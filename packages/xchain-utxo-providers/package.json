@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-utxo-providers",
+  "name": "@dokwallet/xchain-utxo-providers",
   "version": "0.2.11",
   "license": "MIT",
   "main": "lib/index.js",

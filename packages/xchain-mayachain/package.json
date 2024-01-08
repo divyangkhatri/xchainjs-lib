@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-mayachain",
+  "name": "@dokwallet/xchain-mayachain",
   "version": "0.2.14",
   "description": "Custom Mayachain client and utilities used by XChainJS clients",
   "keywords": [

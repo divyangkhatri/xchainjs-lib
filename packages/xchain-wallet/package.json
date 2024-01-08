@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-wallet",
+  "name": "@dokwallet/xchain-wallet",
   "description": "XChainjs clients wrapper to work with several chains at the same time",
   "version": "0.1.0",
   "license": "MIT",

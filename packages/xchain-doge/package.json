@@ -1,5 +1,5 @@
 {
-  "name": "@xchainjs/xchain-doge",
+  "name": "@dokwallet/xchain-doge",
   "version": "0.7.10",
   "description": "Custom Doge client and utilities used by XChain clients",
   "keywords": [
